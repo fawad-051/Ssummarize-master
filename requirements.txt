@@ -12,3 +12,4 @@ youtube-transcript-api
 yt-dlp
 pytesseract
 pypdf
+python-docx
