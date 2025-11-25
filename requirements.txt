@@ -1,0 +1,13 @@
+streamlit
+requests
+validators
+langchain-classic>=1.0.0
+transformers
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+youtube-transcript-api
+yt-dlp
+pypdf
