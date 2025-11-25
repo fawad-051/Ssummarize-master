@@ -10,4 +10,5 @@ langchain-groq
 langchain-text-splitters
 youtube-transcript-api
 yt-dlp
+pytesseract
 pypdf
